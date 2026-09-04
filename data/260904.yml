@@ -7,7 +7,7 @@ about:
   head: 9cd5278
   archived: false
   latestVersion: 1.0.1
-  collectedAt: 2026-09-04T19:20:12Z
+  collectedAt: 2026-09-04T21:14:56Z
 timeline:
   created: 2018-05-29
   lastCommit: 2023-07-09
@@ -84,5 +84,58 @@ total:
   openIssue: 20
   commit: 131
 ---
+path: /home/runner/.x-repo/github.com/daipeihust/im-select
+collectedAt: 2026-09-04T21:14:57Z
+loc:
+  Cpp:
+    code: 234
+    comments: 16
+    blanks: 50
+    files: 3
+  VisualStudioProject:
+    code: 167
+    comments: 0
+    blanks: 0
+    files: 1
+  VisualStudioSolution:
+    code: 30
+    comments: 0
+    blanks: 1
+    files: 1
+  ObjectiveC:
+    code: 25
+    comments: 7
+    blanks: 2
+    files: 1
+  Sh:
+    code: 20
+    comments: 6
+    blanks: 9
+    files: 2
+  Json:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  CHeader:
+    code: 10
+    comments: 8
+    blanks: 11
+    files: 2
+  CMake:
+    code: 5
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 238
+    blanks: 133
+    files: 4
+total:
+  code: 534
+  comments: 275
+  blanks: 212
+  files: 16
 ---
 
